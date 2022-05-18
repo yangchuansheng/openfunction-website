@@ -8,7 +8,7 @@ Contributions of any kind are welcome!
 
 ### Fork and clone the repository
 
-1. Fork the repository.
+1. Fork the repository..
 
 2. Run the following commands to clone your fork and enter into it. Make sure you replace `<Your GitHub ID>` with your GitHub ID.
 
